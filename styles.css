@@ -7,8 +7,15 @@
 	--clr-neutral-300: hsl(303, 10%, 53%);
 	---clr-neutral-200: hsl(300, 24%, 96%);
 	--clr-neutral-100: hsl(0, 0%, 100%);
-	--fs-400: 0.9375;
+
+	--ff-primary: "League Spartan", sans-serif;
+
+	--fs-17: 1.0625rem;
+	--fs-19: 1.1875rem;
+	--fs-header: 3.5rem;
 }
-body {
-	font-size: 15px;
+@media (min-width: 50em) {
+	:root {
+		--fs-header: 2.5rem;
+	}
 }
