@@ -12,13 +12,23 @@
 
 	--fs-17: 1.0625rem;
 	--fs-19: 1.1875rem;
-	--fs-header: 3.5rem;
+	--fs-header: 2.5rem;
 }
 @media (min-width: 50em) {
 	:root {
-		--fs-header: 2.5rem;
+		--fs-header: 3.5rem;
 	}
 }
 body {
 	font-family: var(--ff-primary);
+	font-size: var(--fs-17);
+}
+
+h1 {
+	font-size: var(--fs-header);
+}
+.lead {
+	font-size: var(--fs-19);
+	color: var(--clr-primary-700);
+	line-height: 1;
 }
