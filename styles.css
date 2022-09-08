@@ -19,3 +19,6 @@
 		--fs-header: 2.5rem;
 	}
 }
+body {
+	font-family: var(--ff-primary);
+}
