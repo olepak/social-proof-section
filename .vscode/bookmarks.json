@@ -24,6 +24,16 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "styles.css",
+			"bookmarks": [
+				{
+					"line": 22,
+					"column": 1,
+					"label": ""
+				}
+			]
 		}
 	]
 }
