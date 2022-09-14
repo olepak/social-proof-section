@@ -4,18 +4,33 @@
 			"path": "index.html",
 			"bookmarks": [
 				{
+					"line": 20,
+					"column": 4,
+					"label": ""
+				},
+				{
 					"line": 27,
-					"column": 24,
-					"label": ""
-				},
-				{
-					"line": 43,
 					"column": 4,
 					"label": ""
 				},
 				{
-					"line": 59,
-					"column": 4,
+					"line": 29,
+					"column": 5,
+					"label": ""
+				},
+				{
+					"line": 45,
+					"column": 5,
+					"label": ""
+				},
+				{
+					"line": 61,
+					"column": 5,
+					"label": ""
+				},
+				{
+					"line": 78,
+					"column": 3,
 					"label": ""
 				}
 			]
